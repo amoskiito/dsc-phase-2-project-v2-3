@@ -77,7 +77,12 @@ Using an iterative approach to our model building we created multiple linear reg
 
 ## Results
 ![](Screenshot%202022-09-29%20163659.png)
+
 Grade has a very strong influence on home sale price, each additional increase in grade sees an increase in mean sale price.
+
+![](Screenshot%202022-09-30%20175656.png)
+
+Condition has a very strong influence on home sale price, for a better condition we see an increase in mean sale price.
 
 ## Regression Modelling
 In our final regression model using all of our selected features, we saw an increase in model performance based on our R-squared value from 31 percent (baseline) to 57.5 percent (final). Our final model also had a Root Mean Squared Error of 160949.34. On average, our model is off from the actual price by 160949.34 dollars. All model features had a p-value < 0.05 (our alpha/significance level), which tells us that all features have a statistically significant linear relationship with price except for bathrooms and grade dummies. While we did not pass our homoscedasticity assumption in our final model we did pass our independence, linearity, and normaility assumptions, which is good. Here are some observations from our chosen model:
@@ -114,5 +119,14 @@ Our model accurately fits only 57.5 percent of the data. While this is sufficien
 
 Find more recent home sales data to get a more accurate picture of today's market. Finding home sale information before 2014 would also help to create a more in-depth analysis.
 Include additional features in future models. Particularly zipcode, sqft_living, and condition.
+
+For more information:
+
+Please check out my jupyter notebook on: https://github.com/amoskiito/dsc-phase-2-project-v2-3/blob/main/student.ipynb
+
+and presentation:
+
+https://github.com/amoskiito/dsc-phase-2-project-v2-3/blob/main/KingCounty%20Presentation.pdf
+
 
 
