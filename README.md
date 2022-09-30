@@ -1,8 +1,8 @@
 # Phase 2 Project Description
 
-![](download.jpg)
+![](How%20Darwin%20Horan%20Boosting%20His%20Real%20Estate%20Business%20With%20Facebook.jpg)
 
-The housing market is booming and the demand to create more housing is higher than ever. I have been tasked by Kraken Construction, a new housing developer in King County, WA to assess the local housing market and identify the features that most influence home sale price.
+The housing market is booming and the demand to create more housing is higher than ever. I have been tasked by Alliance Realtors, a new housing developer in King County, WA to assess the local housing market and identify the features that most influence home sale price especially when a home owner wants to buy a house to renovate or renovate their own for sell.
 
 Stakeholder: Alliance Realtors
 
